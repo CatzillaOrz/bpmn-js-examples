@@ -60,6 +60,7 @@ The modeler ships with a [module](https://github.com/bpmn-io/bpmn-js-examples/bl
 Fetch dependencies:
 
 ```
+nvm use 6.9.2
 npm install
 ```
 
